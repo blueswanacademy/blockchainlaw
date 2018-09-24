@@ -6,12 +6,13 @@ Blue Swan believes in the potential of blockchain technologies enabling digital 
 For this reason the course will be fully open to the collaboration of the community and will have an open source license. We aim to contribute to the collective wisdom and incentivice the generation of knowledge in the gobal blockchain legal community. The course will be structured in a modular approach to facilitate participation and full flexibility at the development and consumption of content. 
 Enjoy!
 
-Table of Contents (short version)
+Table of Contents 
 Introduction 
 Module 1.1
 
 1.	Basics
 1.1.	Historical Context 
+
 1.2.	Blockchain Definitions 
 1.3.	Basic technological concepts 
 1.4   How does the Blockchains work?

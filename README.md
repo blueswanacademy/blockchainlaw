@@ -7,6 +7,7 @@ For this reason the course will be fully open to the collaboration of the commun
 Enjoy!
 
 Table of Contents Introduction to Blockchain Law
+
 Module 1.1
 
 1.	Basics
@@ -22,7 +23,10 @@ Module 1.1
 
 1.6.	Wallets, Exchanges and Transactions (practical exercises)
 
+
+
 Module 1.2
+
 
 2.	Characteristics and uses of Blockchains
 
@@ -39,7 +43,10 @@ Module 1.2
   2.4.2.	Blockchain as a value exchange network 
   2.4.3.	Blockchain as a (decentralized) governance tool 
 
+
+
 Module 1.3
+
 
 3.	Blockchains in the context of decentralization
 
@@ -60,7 +67,10 @@ Module 1.3
   3.6.1.	Governance
   3.6.2.	Regulatory frameworks
 
+
+
 Module 1.4
+
 
 4.	Features and applications of Blockchains for the legal profession
 

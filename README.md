@@ -5,7 +5,7 @@ Welcome to the world's first open Blockchain Law Course. Blockchain is the most 
 
 The purpose of this project is to bridge the current knowledge and skill gap around blockchain technologies and specically their legal  and regulatory dimensions. The project will be open for collaboration and the content will be integrated into the digital commons witn a permissive open source license. A modular approach will facilitate participation and full flexibility at the development and consumption of content. 
 
-If you want to develop a specific topic, you are welcome to join our discussion fourms. Submit your pull requests!
+If you want to develop a specific topic, you are welcome to join our discussion forums. Submit your pull requests!
 
 https://github.com/blueswanacademy/blockchainlaw.wiki.git
 

@@ -7,6 +7,8 @@ The purpose of this project is to bridge the current knowledge and skill gap aro
 
 If you want to develop a specific topic, you are welcome to join our discussion forums. Submit your pull requests!
 
+Table of Contents Introduction to Blockchain Law:
+
 https://github.com/blueswanacademy/blockchainlaw.wiki.git
 
 

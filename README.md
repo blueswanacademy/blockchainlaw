@@ -9,7 +9,7 @@ If you want to develop a specific topic, you are welcome to join our discussion 
 
 
 
-[Introduction to Blockchian Law](https://github.com/blueswanacademy/blockchainlaw.wiki.git).
+[Introduction to Blockchian Law](https://github.com/blueswanacademy/blockchainlaw.wiki.git)
 
 
 

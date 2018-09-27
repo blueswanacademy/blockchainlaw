@@ -9,7 +9,6 @@ Some of these primitives may include:
 ### 3. Blockchain Proof services
 ### 4. Cryptoassets (taxonomy)
 ### 5. Crypto collectives (NFT / RFT)
-       Non fungible tokens   
 ### 6. Smart Property, fractional ownership
 ### 7. Self-sovereign identity
 ### 8. Decentralised dispute resolution

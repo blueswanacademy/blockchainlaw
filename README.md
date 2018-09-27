@@ -1,4 +1,4 @@
-# blockchainlaw
+# Blockchain Law
 Blockchain Law Course
 
 Welcome to the world's first open Blockchain Law Course. Blockchain is the most exciting and disruptive technology of this generation and will permanently change the concept of law and the role of legal practitioners in our society. The development and implementation of the technology requires a whole new set of theoretical foundations and mental paradigms, which we have to develop together as a global community. Specific multidisciplinary skills will be required to draft self-executing, autonomus smart contracts, to design code - based regulatory frameworks, to implement governance and incentive systems for descentraliced communites. New legal fields and disciplines will emerge in the following years.

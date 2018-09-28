@@ -7,7 +7,15 @@ The purpose of this project is to bridge the current knowledge and skill gap aro
 
 We envision an open platform of producers, consumers and curators of material for blockchain lawyers and projects in the blockchain space. 
 
-If you want to develop a specific topic, you are welcome to join our discussion forums. Feel free to submit your contributions directly in the [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki), fork it and submit your pull requests!
+If you want to develop a specific topic, you are welcome to join our discussion forums. Feel free to submit your contributions directly in
+our repository. 
+
+Fork and submit your pull requests!
+
+
+
+the [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki), 
+
 
 
 

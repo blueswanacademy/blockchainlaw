@@ -1,3 +1,5 @@
+#Contribution Guidelines
+
 Thank you for considering contributing to blockchain law project.
 
 blockchainlaw is an open source project and we love to receive contributions from our community — you! 

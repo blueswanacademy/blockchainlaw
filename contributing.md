@@ -1,5 +1,6 @@
 ### Contribution Guidelines
 
+
 Thank you for considering contributing to blockchain law project.
 
 blockchainlaw is an open source project and we love to receive contributions from our community — you! 
@@ -14,7 +15,8 @@ Add your content
 
 Issue that pull request!
 
-If you are not familiar with the Github Flow, plaese take a look at [this tutorial](https://guides.github.com/activities/hello-world/)
+
+If you are not familiar with the Github Flow, please take a look at [Hello World tutorial](https://guides.github.com/activities/hello-world/).
 
 
 Additional documentation, articles, research papers and reading material for each topic will be posted in our [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki)

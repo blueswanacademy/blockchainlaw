@@ -1,4 +1,4 @@
-#Contribution Guidelines
+### Contribution Guidelines
 
 Thank you for considering contributing to blockchain law project.
 

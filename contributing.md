@@ -13,4 +13,4 @@ Add your content
 Issue that pull request!
 
 
-Additional documentation and reading material for each topic will be posted in our [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki)
+Additional documentation, articles, research papers and reading material for each topic will be posted in our [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki)

@@ -9,17 +9,19 @@ We use [Github Flow](https://guides.github.com/introduction/flow/index.html) so 
 
 Pull requests are the best way to propose changes to the master documents. We actively welcome your pull requests:
 
-Fork the repo and create your branch from master
+  - Fork the repo and create your branch from master
 
-Add your content
+  - Add your content
 
-Issue that pull request!
+  - Issue that pull request!
 
 
 If you are not familiar with the Github Flow, please take a look at [Hello World tutorial](https://guides.github.com/activities/hello-world/).
 
 
-Additional documentation, articles, research papers and reading material for each topic will be posted in our [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki)
+
+Additional documentation, articles, research papers and reading material for each topic will be published in our [wiki](https://github.com/blueswanacademy/blockchainlaw/wiki)
+
 
 
 ### Any contribution you make will be under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)

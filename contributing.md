@@ -17,3 +17,5 @@ Additional documentation, articles, research papers and reading material for eac
 
 
 ### Any contribution you make will be under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
+When you submit changes or any kinf of content, your submissions are understood to be under the same CC License that covers the project.

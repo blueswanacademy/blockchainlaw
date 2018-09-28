@@ -8,8 +8,10 @@ We use [Github Flow](https://guides.github.com/introduction/flow/index.html) so 
 
 Pull requests are the best way to propose changes to the master documents. We actively welcome your pull requests:
 
-Fork the repo and create your branch from master.
+Fork the repo and create your branch from master
+
 Add your content
+
 Issue that pull request!
 
 

@@ -88,7 +88,7 @@ Proving authorship of a transaction
 
 ### 5.	Impact of blockchain technologies in the legal industry
 #### 5.1 Practical use cases  
-Identity / Signature / Trust Accounting / Contract Drafting  / Escrw services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
+Identity / Signature / Trust Accounting / Contract Drafting  / Escrow services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
 #### 5.2 Regulatory challenges
 #### 5.3 Future Topics in Blockchain Law
 Cryptoasset Taxonomy / Digital Ownership rights  / The future of Organizations / Blockchain governance

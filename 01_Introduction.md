@@ -2,7 +2,14 @@
 
 ## Table of Contents Introduction to Blockchain Law
 
- ### 1.1: Blockchain Basics
+ ### 1.1: Historical Context
+ 
+ Why?
+ 
+In this first lesson we are going to give an historical context to the invention of blockchain technologies. 
+We will review some of the ideological foundations that inspired and preceded its invention, which include the Austrian Economic School of Thought, Libertarianism and Cypherpunk movement of the 1980s. Understanding the ideological component will help us analyze better its economic, business and legal dimensions. We consider blockchain is a technological representation of different ideologies.
+Our objective is to reflect the ideological and philosophical roots of the technology. 
+
 
 
 1.1.	Historical Context 

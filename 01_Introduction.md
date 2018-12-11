@@ -32,16 +32,16 @@ What?
 In this lesson we will describe what are blockchain networks from a technical, economical and legal perspective. Additionally we will study the architectural layers upon which they are built.
 
 #### 2.1 Technical layer
-##### Distributed p2p database that maintains integrity / non-destructive way to track data changes
+Distributed p2p database that maintains integrity / non-destructive way to track data changes
 #### 2.2 Business layer
-##### „Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic 
+„Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic 
 #### 2.3 Legal layer
-##### Transaction validation mechanism / asset register (static) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
+Transaction validation mechanism / asset register (static) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
 #### 2.4 Political / Social layer
-##### Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
+Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
 #### 2.5 Infrastructure layers
-##### OSI / ISO model
-##### TCP / IP model
+OSI / ISO model
+TCP / IP model
 
 
 
@@ -55,24 +55,44 @@ In this lesson we will explain the basic functioning of blockchain networks as w
 
 
 #### 3.1 Cryptographic Hashes
-##### Digital fingerprint. Unique identifier
+Digital fingerprint. Unique identifier
 #### 3.2 Blocks
-##### Data Sets with an order of transactions
+Data Sets with an order of transactions
 #### 3.3 Mining
 #### 3.4 Blockchains
 #### 3.5 Distributed Ledgers
 #### 3.6 Tokens
 #### 3.7 Transactions
-##### Transmitting ownership rights of virtual assets
+Transmitting ownership rights of virtual assets
 #### 3.8 Asymmetric Cryptography
-##### Public / Private Key
-##### Wallets
+Public / Private Keys
+Wallets
 #### 3.9 Digital Signatures
-##### Proving authorship of a transaction
+Proving authorship of a transaction
 #### 3.10 Nodes
 #### 3.11 Consensus
 #### 3.12 Cryptoeconomic concepts and incentives
 
+
+### 4 Architecture
+
+
+#### 4.1 Blockchains in the context of decentralization
+#### 4.2 Types of Blockchains
+  Public / Consortium / Private
+#### 4.3 Blockchain characteristics
+ Public blockchains: Des intermediation / transnational / resilient / tamper resistant / transparent / pseudonimity / incentivation / consensus / autonomy / alegality
+ Private blockchains:
+#### 4.4 Governance
+#### 4.5 Use cases
+
+
+### 5.	Impact of blockchain technologies in the legal industry
+#### 5.1 Practical use cases  
+Identity / Signature / Trust Accounting / Contract Drafting  / Escrw services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
+#### 5.2 Regulatory challenges
+#### 5.3 Future Topics in Blockchain Law
+Cryptoasset Taxonomy / Digital Ownership rights  / The future of Organizations / Blockchain governance
 
 
 

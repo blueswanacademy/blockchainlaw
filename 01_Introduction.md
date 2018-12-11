@@ -40,7 +40,7 @@ Transaction validation mechanism / asset register (static) / self -executable sm
 #### 2.4 Political / Social layer
 Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
 #### 2.5 Infrastructure layers
-OSI / ISO model
+OSI / ISO model;
 TCP / IP model
 
 

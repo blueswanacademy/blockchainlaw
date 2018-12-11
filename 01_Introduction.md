@@ -25,6 +25,26 @@ Our objective is to reflect the ideological and philosophical roots of the techn
 ##### 1.2.5  Bitcoin, Ethereum & 3d generation blockchains
 
 
+### 2 Definitions 
+
+What?
+
+In this lesson we will describe what are blockchain networks from a technical, economical and legal perspective. Additionally we will study the architectural layers upon which they are built.
+
+#### 2.1 Technical layer
+##### Distributed p2p database that maintains integrity / non-destructive way to track data changes
+#### 2.2 Business layer
+##### „Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic 
+#### 2.3 Legal layer
+##### Transaction validation mechanism / asset register (static) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
+#### 2.4 Political / Social layer
+##### Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
+#### 2.5 Infrastructure layers
+##### OSI / ISO model
+##### TCP / IP model
+
+
+
 
 
 ##  1.2: Characteristics and Legal Aspects of Blockchains
@@ -44,6 +64,9 @@ Our objective is to reflect the ideological and philosophical roots of the techn
   2.4.2.	Blockchain as a value exchange network 
   
   2.4.3.	Blockchain as a governance tool for decentralised communities
+  
+  
+  
 
 
 

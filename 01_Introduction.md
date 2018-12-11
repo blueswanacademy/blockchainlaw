@@ -45,28 +45,34 @@ In this lesson we will describe what are blockchain networks from a technical, e
 
 
 
-
-
-##  1.2: Characteristics and Legal Aspects of Blockchains
-
-2.1.	Types of Blockchains: open, private, consortium
-
-2.2.	Bitcoin, Ethereum (EVM) and other platforms
-
-2.3.	Architectural layers of Blockchains 
-
-2.3.	Characteristics of Blockchains 
-
-2.4.	Legal Dimensions of Blockchains
-
-  2.4.1.	Blockchain as an asset register 
-  
-  2.4.2.	Blockchain as a value exchange network 
-  
-  2.4.3.	Blockchain as a governance tool for decentralised communities
   
   
-  
+### 3 How Blockchains work?
+
+How?
+
+In this lesson we will explain the basic functioning of blockchain networks as well as an introduction to the most important technical and (crypto) economical concepts. A link to legal concepts will be provided.
+
+
+#### 3.1 Cryptographic Hashes
+##### Digital fingerprint. Unique identifier
+#### 3.2 Blocks
+##### Data Sets with an order of transactions
+#### 3.3 Mining
+#### 3.4 Blockchains
+#### 3.5 Distributed Ledgers
+#### 3.6 Tokens
+#### 3.7 Transactions
+##### Transmitting ownership rights of virtual assets
+#### 3.8 Asymmetric Cryptography
+##### Public / Private Key
+##### Wallets
+#### 3.9 Digital Signatures
+##### Proving authorship of a transaction
+#### 3.10 Nodes
+#### 3.11 Consensus
+#### 3.12 Cryptoeconomic concepts and incentives
+
 
 
 

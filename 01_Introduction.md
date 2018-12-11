@@ -2,7 +2,7 @@
 
 ## Table of Contents Introduction to Blockchain Law
 
- ### 1.1: Historical Context
+ ### 1 Historical Context
  
  Why?
  
@@ -12,17 +12,18 @@ Our objective is to reflect the ideological and philosophical roots of the techn
 
 
 
-1.1.	Historical Context 
+#### 1.1 Ideology
+   ##### 1.1.1 Austrian School and Libertarianism
+   ##### 1.1.2 Cypherpunk movement
+   ##### 1.1.3 Open Source movement
+ 
+#### 1.2 Technology
+ ##### 1.2.1 Commercial Internet
+ ##### 1.2.2 Cryptography
+ ##### 1.2.3  P2P networks
+##### 1.2.4 Digital currencies
+##### 1.2.5  Bitcoin, Ethereum & 3d generation blockchains
 
-1.2.	Blockchain Definitions 
-
-1.3.	Basic technological concepts 
-
-1.4     How does Blockchains work?
-
-1.5.	Basic crypto economic concepts 
-
-1.6.	Wallets, Exchanges and Transactions (practical exercises)
 
 
 

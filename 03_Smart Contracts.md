@@ -7,6 +7,16 @@ This poses many interesting questions for legal practitioners, as technology rep
 lawmakers, lawyers and judges. Will smart contracts become a new form of law? What is the role of law and lawyers 
 in smart contract based transactions? 
 
+Smart Contract: codifies business logic.
+
+Function:   Store rules;
+            Verify Rules;
+            (Self) executes rules;
+            
+Areas: industries with high volumen and standardization (loan agrrements, supply contracts) + simple execution requirements (insurance payouts, equipment rentals, and simple leases).
+
+
+
 ### Topics
 
 Smart Contracts v. Legal Contracts

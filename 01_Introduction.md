@@ -1,6 +1,11 @@
-# Introduction to Blockchain Law
+#  Blockchain Law 101
 
 ## Table of Contents Introduction to Blockchain Law
+
+
+### 0. What is Blockchain Law?
+
+Introduction to Blockchain Law and Purpose of the course
 
  ### 1 Historical Context
  
@@ -46,7 +51,7 @@ TCP / IP model
 
   
   
-### 3 How Blockchains work?
+### 3 How blockchains work?
 
 How?
 
@@ -86,10 +91,23 @@ Proving authorship of a transaction
 #### 4.5 Use cases
 
 
-### 5.	Impact of blockchain technologies in the legal industry
-#### 5.1 Practical use cases  
-Identity / Signature / Trust Accounting / Contract Drafting  / Escrow services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
-#### 5.2 Regulatory challenges
-#### 5.3 Future Topics in Blockchain Law
-Cryptoasset Taxonomy / Digital Ownership rights  / The future of Organizations / Blockchain governance
+### 5. Smart Contracts, Smart Property, DAOs
+
+#### 5.1 Introduction to Smart Contracts
+#### 5.2 Smart Contract Design
+#### 5.3 Smart Property Types
+#### 5.4 The nature of digital ownership rights
+#### 5.5 DAOs
+
+
+### 6.	Impact of blockchain technologies in the legal industry
+#### 6.1 Legal & Governance use cases
+Smart Property / Trusts / Identity / Digital Signature / Trust Accounting / Contract Drafting  / Escrow services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
+#### 6.2 Legal issues and risks surrounding blockchain technologies and smart contracts
+Private Law: Liability issues when code malfunctions or is hacked (allocation and distribution of risks in a malfunctioning blockchain network) / service levels and performance / expression of intent: Ricardian contracts / jurisdictional issues (contract law)/ enforceability and validity questions of smart contracts (identity, offer & acceptance, etc.) / dispute resolution / legal ownership of digital assets / insurance issues / Cryptoasset Taxonomy / IP ownership, Open source licenses / data as as property / Due Diligence (buy / sell) for investment sin blockchain startups / insurance
+Public Law: Regulatory Law / competition law / legal evidence in court / tax law / criminal law / jurisdictional issues 
+#### 6.3 Regulatory issues and risks surrounding blockchain technologies and smart contracts
+Data privacy: GDPR / consumer protection / securities regulations / money transmission / KYC & AML / environmental regulations
+#### 6.4  Future Topics in Blockchain Law
+
 

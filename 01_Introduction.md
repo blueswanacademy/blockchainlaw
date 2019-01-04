@@ -55,7 +55,7 @@ TCP / IP model
 
 How?
 
-In this lesson we will explain the basic functioning of blockchain networks as well as an introduction to the most important technical and (crypto) economical concepts. A link to legal concepts will be provided.
+In this lesson we will explain the basic functioning of blockchain networks as well as an introduction to the most important technical and (crypto) economical concepts. We will underline the legal relevance of these concepts.
 
 
 #### 3.1 Cryptographic Hashes

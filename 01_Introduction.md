@@ -40,7 +40,7 @@ Distributed p2p database that maintains integrity / non-destructive way to track
 #### 2.2 Business layer
 „Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic 
 #### 2.3 Legal layer
-Transaction validation mechanism / asset register (static) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
+Transaction validation mechanism (use case transactional) / asset register (static) (use case record keeping) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
 #### 2.4 Political / Social layer
 Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
 #### 2.5 Infrastructure layers

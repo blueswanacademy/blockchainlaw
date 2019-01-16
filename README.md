@@ -5,7 +5,7 @@ Welcome to the world's first open Blockchain Law Course. Blockchain is the most 
 
 Although the development of the technology is in its infancy, it already has an impact in the practice and business of law. We want to help identify and develop new use cases for the legal profession. Blockchains can add substantial efficiencies in legal transactions by des-intermediating human interactions and automatizing processes. The value that is unlocked for the society is a huge opportunity for legal practitioners, but simultaneously a challenge. Our mission is to help implement this transition.
 
-This repository should be seen as a tool for open collaboration that will help bridg the current knowledge and skill gap around blockchain technologies and their legal and regulatory dimensions. The project will be open for collaboration and the content will be integrated into the digital commons with a permissive, open source license. A modular approach will facilitate participation, development and consumption of content. 
+This repository should be seen as a tool for open collaboration that will help bridge the current knowledge and skill gap around blockchain technologies and their legal and regulatory dimensions. The project will be open for collaboration and the content will be integrated into the digital commons with a permissive, open source license. A modular approach will facilitate participation, development and consumption of content. 
 
 We envision an open platform of producers, consumers and curators of relevant material for blockchain lawyers and simultaneously legal information for projects in the blockchain space. 
 

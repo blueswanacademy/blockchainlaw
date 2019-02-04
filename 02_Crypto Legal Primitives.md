@@ -18,3 +18,4 @@ Some of these primitives may include:
 #### Cryptoassets (taxonomy)
 
 
+Thank you Aaron Wright @awrigh01 for your inspiration! 

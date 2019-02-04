@@ -6,15 +6,15 @@ Primitives are self-sustaining building blocks, which are designed to do one spe
 
 Some of these primitives may include:
 
-### Management of ownership rights of digital assets (Owner ID / Property ID / Authentication / Authorization)
-### Parties of a transaction (Self-sovereign identity)
-### Payment terms
-### Title (Smart Property, fractional ownership, bundle of rights). Embodied in a NFT with subtokens that represent auxiliary rights
-### Termination primitives (change of state)
-### Dispute resolution
-### Limitation of Liability (cap payments in case of termination or dispute resolution procedure)
-### Vesting / option based primitives (condition activated by an oracle)
-### Escrow primitives (managed by multisig smart contracts)
-### Cryptoassets (taxonomy)
+#### Management of ownership rights of digital assets (Owner ID / Property ID / Authentication / Authorization)
+#### Parties of a transaction (Self-sovereign identity)
+#### Payment terms
+#### Title (Smart Property, fractional ownership, bundle of rights). Embodied in a NFT with subtokens that represent auxiliary rights
+#### Termination primitives (change of state)
+#### Dispute resolution
+#### Limitation of Liability (cap payments in case of termination or dispute resolution procedure)
+#### Vesting / option based primitives (condition activated by an oracle)
+#### Escrow primitives (managed by multisig smart contracts)
+#### Cryptoassets (taxonomy)
 
 

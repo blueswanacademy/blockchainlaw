@@ -1,20 +1,20 @@
 ## Crypto Legal Primitives
 
 In this module we will study the emergence of legal crypto primitives. 
-Primitives are self-sustaining building blocks that will serve as the foundation for enabling and enforcing digital rights. 
+
+Primitives are self-sustaining building blocks, which are designed to do one specific task, and can be used in different contexts.  Cryptographic primitives are the technological building blocks of blockchains, which have been complemented by cryptoeconomic and financial primitives. Legal primitives are one of the missing building blocks in the puzzle and refer to performance obligations and risk management in blockchain based transactions, which can be expressed in deterministic code. Crypto Legal primitives will serve as the foundation for enabling and enforcing digital rights. Some of these primitives may include:
+
 Some of these primitives may include:
 
-### 1. Management of ownership rights on digital assets
-### 2. Delegation of trust
-### 3. Blockchain Proof services
-### 4. Cryptoassets (taxonomy)
-### 5. Crypto collectives (NFT / RFT)
-### 6. Smart Property, fractional ownership
-### 7. Self-sovereign identity
-### 8. Decentralised dispute resolution
-### 9. Decentralised registers
-### 10.Oracles
-
-
+### Management of ownership rights of digital assets (Owner ID / Property ID / Authentication / Authorization)
+### Parties of a transaction (Self-sovereign identity)
+### Payment terms
+### Title (Smart Property, fractional ownership, bundle of rights). Embodied in a NFT with subtokens that represent auxiliary rights
+### Termination primitives (change of state)
+### Dispute resolution
+### Limitation of Liability (cap payments in case of termination or dispute resolution procedure)
+### Vesting / option based primitives (condition activated by an oracle)
+### Escrow primitives (managed by multisig smart contracts)
+### Cryptoassets (taxonomy)
 
 

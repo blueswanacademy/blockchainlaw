@@ -91,14 +91,17 @@ Proving authorship of a transaction
 #### Use cases
 
 
-### Smart Contracts, Smart Property, DAOs
+### Smart Contracts & DAOs
 
 #### Introduction to Smart Contracts
 #### Smart Contract Design
-#### The nature of digital ownership rights
-#### Smart Property Types
 #### Decenstraliced Autonomous Organizations (DAOs)
 #### The future of Organizations
+
+### Digital Ownership Rights and Smart Property
+#### The nature of digital ownership rights
+#### Cryptoassets
+#### Smart Property Types
 
 ### Use Cases and Legal Issues
 

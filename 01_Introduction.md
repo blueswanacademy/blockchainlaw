@@ -100,7 +100,8 @@ Proving authorship of a transaction
 
 ### Digital Ownership Rights and Smart Property
 #### The nature of digital ownership rights
-#### Cryptoassets
+#### Documenting and transfering property right on digital assets (under which fundamental economic freedon they fall under EU law?)
+#### Cryptoassets and the tokenization of the economy
 #### Smart Property Types
 
 ### Use Cases and Legal Issues

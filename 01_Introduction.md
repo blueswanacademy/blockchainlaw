@@ -1,9 +1,9 @@
-#  Blockchain Law 101
+#  Introduction to Blockchain Law
 
 ## Table of Contents Introduction to Blockchain Law
 
 
-### 0. What is Blockchain Law?
+### What is Blockchain Law?
 
 Introduction to Blockchain Law and Purpose of the course
 
@@ -16,34 +16,34 @@ In this first lesson we are going to analyse the invention of blockchain technol
 
 
 
-#### 1.1 Ideology
-   ##### 1.1.1 Austrian School and Libertarianism
-   ##### 1.1.2 Cypherpunk movement
-   ##### 1.1.3 Open Source movement
+#### Ideology
+   ##### Austrian School and Libertarianism
+   ##### Cypherpunk movement
+   ##### Open Source movement
  
-#### 1.2 Technology
- ##### 1.2.1 Commercial Internet
- ##### 1.2.2 Cryptography
- ##### 1.2.3  P2P networks
-##### 1.2.4 Digital currencies
-##### 1.2.5  Bitcoin, Ethereum & 3d generation blockchains
+#### Technology
+ ##### Commercial Internet
+ ##### Cryptography
+ ##### P2P networks
+##### Digital currencies
+##### Bitcoin, Ethereum & 3d generation blockchains
 
 
-### 2 Definitions 
+### Definitions 
 
 What?
 
 In this lesson we will describe what are blockchain networks from a technical, economical and legal perspective. Additionally we will study the architectural layers upon which they are built.
 
-#### 2.1 Technical layer
-Distributed p2p database that maintains integrity / non-destructive way to track data changes
-#### 2.2 Business layer
-„Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic 
-#### 2.3 Legal layer
+#### Technical layer
+Distributed p2p database that maintains integrity / non-destructive way to track data changes /  “append - only database”
+#### Business layer
+„Trust“ machine (data integrity)  / Value transfer network  (dynamic)/ programmable business logic / self executable smart contracts / 
+#### Legal layer
 Transaction validation mechanism (use case transactional) / asset register (static) (use case record keeping) / self -executable smart contracts / documentation & transmission of ownership rights on digital assets
-#### 2.4 Political / Social layer
+#### Political / Social layer
 Creation and allocation of scarce resources and public goods / coordination of agents for a common purpose / decentralized governance
-#### 2.5 Infrastructure layers
+#### Infrastructure layers
 OSI / ISO model;
 TCP / IP model
 
@@ -58,56 +58,76 @@ How?
 In this lesson we will explain the basic functioning of blockchain networks as well as an introduction to the most important technical and (crypto) economical concepts. We will underline the legal relevance of these concepts.
 
 
-#### 3.1 Cryptographic Hashes
+#### Cryptographic Hashes
 Digital fingerprint. Unique identifier
-#### 3.2 Blocks
+#### Blocks
 Data Sets with an order of transactions
-#### 3.3 Mining
-#### 3.4 Blockchains
-#### 3.5 Distributed Ledgers
-#### 3.6 Tokens
-#### 3.7 Transactions
+#### Mining
+#### Blockchains
+#### Distributed Ledgers
+#### Tokens
+#### Transactions
 Transmitting ownership rights of virtual assets
-#### 3.8 Asymmetric Cryptography
+#### Asymmetric Cryptography
 Public / Private Keys
 Wallets
-#### 3.9 Digital Signatures
+#### Digital Signatures
 Proving authorship of a transaction
-#### 3.10 Nodes
-#### 3.11 Consensus
-#### 3.12 Cryptoeconomic concepts and incentives
+#### Nodes
+#### Consensus
+#### Cryptoeconomic concepts and incentives
 
 
-### 4 Architecture
+### Architecture
 
 
-#### 4.1 Blockchains in the context of decentralization
-#### 4.2 Types of Blockchains
+#### Blockchains in the context of decentralization
+#### Types of Blockchains
   Public / Consortium / Private
-#### 4.3 Blockchain characteristics
+#### Blockchain characteristics
  Public blockchains: Des intermediation / transnational / resilient / tamper resistant / transparent / pseudonimity / incentivation / consensus / autonomy / alegality
  Private blockchains:
-#### 4.4 Governance
-#### 4.5 Use cases
+#### Introduction to Blockchain Governance
+#### Use cases
 
 
-### 5. Smart Contracts, Smart Property, DAOs
+### Smart Contracts, Smart Property, DAOs
 
-#### 5.1 Introduction to Smart Contracts
-#### 5.2 Smart Contract Design
-#### 5.3 Smart Property Types
-#### 5.4 The nature of digital ownership rights
-#### 5.5 DAOs
+#### Introduction to Smart Contracts
+#### Smart Contract Design
+#### The nature of digital ownership rights
+#### Smart Property Types
+#### Decenstraliced Autonomous Organizations (DAOs)
+#### The future of Organizations
 
+### Use Cases and Legal Issues
 
-### 6.	Impact of blockchain technologies in the legal industry
-#### 6.1 Legal & Governance use cases
-Smart Property / Trusts / Identity / Digital Signature / Trust Accounting / Contract Drafting  / Escrow services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries / RegTech
-#### 6.2 Legal issues and risks surrounding blockchain technologies and smart contracts
-Private Law: Liability issues when code malfunctions or is hacked (allocation and distribution of risks in a malfunctioning blockchain network) / service levels and performance / expression of intent: Ricardian contracts / jurisdictional issues (contract law)/ enforceability and validity questions of smart contracts (identity, offer & acceptance, etc.) / dispute resolution / legal ownership of digital assets / insurance issues / Cryptoasset Taxonomy / IP ownership, Open source licenses / data as as property / Due Diligence (buy / sell) for investment sin blockchain startups / insurance
+#### Legal & Governance use cases
+Smart Property / Trusts / Identity / Signature / Trust Accounting / Contract Drafting[3] / Escrow services / Contract Management & Procurement / Dispute resolution / Evidence (audit trails) & Proof services / Records / Notarization / Legal Services / Business of Law / Access to Justice / Legal Agreement Platforms / Securitization & Tokenization / IP & royalty payments / Corporate Governance / Public Registries
+#### Legal issues and risks surrounding blockchain technologies and smart contracts
+
+Private Law: Liability issues when code malfunctions or is hacked (allocation and distribution of risks in a malfunctioning blockchain network) / service levels and performance / expression of intent: Ricardian contracts / jurisdictional issues (contract law)/ enforceability and validity questions of smart contracts (identity, offer & acceptance, etc.) / dispute resolution / legal ownership of digital assets / insurance issues / Cryptoasset Taxonomy / IP ownership , OSS licenses / data a s property / Due Diligence (buy / sell) for investment sin blockchain startups / insurance
+
 Public Law: Regulatory Law / competition law / legal evidence in court / tax law / criminal law / jurisdictional issues 
-#### 6.3 Regulatory issues and risks surrounding blockchain technologies and smart contracts
+
+#### Regulatory issues and risks surrounding blockchain technologies and smart contracts
 Data privacy: GDPR / consumer protection / securities regulations / money transmission / KYC & AML / environmental regulations
-#### 6.4  Future Topics in Blockchain Law
+
+####  Future Topics in Blockchain Law
+The future of Organizations / Blockchain governance
+
+#### Impact of blockchain technologies in the legal industry
+New legal paradigms: The emergence of Crypto legal primitives
+Value generated by blockchain technologies
+Des – Intermediation: Elimination Agency Risk /   disruption of rent seeking industries / algorithmic trust - problem of cooperation (tragedy of commons) - Game theory: solves problem of cooperation (prisoner's’ dilemma), permit cooperation in no trust environments
+Self execution of smart contracts: reduction of counterparty risk (systemic risk?)
+Public infrastructure
+Staking economy “Skin in the game”: Solving information and risk distribution asymmetries
+Automation: efficiency gains
+Reduction of verification costs (verificación of a transacción attributes) and networking cost ( ability to Bootstrap and opérate a marketplace without an intermediary )   (Finck, 2019: 7 from Catalani/Gans, some simple economics of the Blockchain , 2016)
+
+		
+Replaces trust generated by a legal system through machine based trust
+Blockchain disrupts core legal concepts such as jurisdiction and legal personality
 
 

@@ -101,11 +101,11 @@ Proving authorship of a transaction
 ### Poliycentricity
 ### Stakeholders
 #### Core DEvs
-##### Nodes / Miners
-##### Token Holders / Users
-##### Other
+#### Nodes / Miners
+#### Token Holders / Users
+#### Other
 #### Forks
-#### Use cases
+#### Governance Use cases
 
 
 ### Smart Contracts & DAOs

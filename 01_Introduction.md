@@ -105,7 +105,7 @@ Proving authorship of a transaction
 ###### Token Holders / Users
 ###### Other
 ###### Forks
-###### Governance Use cases
+##### Governance Use cases
 
 
 ### Smart Contracts & DAOs

@@ -89,21 +89,21 @@ Proving authorship of a transaction
  Private blockchains:
  
  
-#### Introduction to Blockchain Governance
-### Principles of Blockchain Governance
-### Mechanisms of Blockchain Governance
-### Process vs. Design
-### On chain / off chain gov.
-### Layers of Blockchain Governance (permisisoneless/ permissioned)
-#### Network Layer
-#### Application Layer
-### Governance Processes
-#### Poliycentricity
-#### Stakeholders
-##### Core DEvs
-###### Nodes / Miners
-###### Token Holders / Users
-###### Other
+### Introduction to Blockchain Governance
+#### Principles of Blockchain Governance
+#### Mechanisms of Blockchain Governance
+#### Process vs. Design
+#### On chain / off chain gov.
+#### Layers of Blockchain Governance (permisisoneless/ permissioned)
+### Network Layer
+### Application Layer
+#### Governance Processes
+### Poliycentricity
+### Stakeholders
+#### Core DEvs
+##### Nodes / Miners
+##### Token Holders / Users
+##### Other
 #### Forks
 #### Use cases
 

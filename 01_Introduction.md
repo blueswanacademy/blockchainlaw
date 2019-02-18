@@ -122,6 +122,7 @@ Core DEvs / Nodes / Miners / Token Holders / Users
 #### The nature of digital ownership rights
 #### Documenting and transfering property right on digital assets (under which fundamental economic freedon they fall under EU law?)
 #### Cryptoassets and the tokenization of the economy
+#### Tokenization of Rights (shareholder rights, property rights, payment rights)
 #### Smart Property Types
 
 ### Use Cases and Legal Issues

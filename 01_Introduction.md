@@ -51,7 +51,7 @@ TCP / IP model
 
   
   
-### 3 How blockchains work?
+### How blockchains work?
 
 How?
 

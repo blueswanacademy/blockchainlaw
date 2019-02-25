@@ -1,11 +1,6 @@
-A Smart Contract is decentralised code that can move money or any type of digital good based on a condition. 
-Smart contracts have particular characteristics as they execute autonomously, without human intervention. 
-They are ideal for automatising the execution of obligations, such as payment, escrow, etc. and they can even 
-replace certain legal agreements. Moreover, enforcement of contractual obligations turns obsolete, 
-as all smart contracts are guaranteed to execute; the agreement contains its own execution. 
-This poses many interesting questions for legal practitioners, as technology replaces partially the role of 
-lawmakers, lawyers and judges. Will smart contracts become a new form of law? What is the role of law and lawyers 
-in smart contract based transactions? 
+
+
+Smart Contracts are computer programs that live on the blockchain and execute automatically. These computer program can be used to produce legal effects, move value and automate processes. The automatic execution of smart contracts inject digital trust in transactions and thus have the potential to replace human based institution such as lawyers. Therefore it is crucial for future blockchain lawyers to understand their potential and limitations, as well as the basics on smart contracts design. Interactions  of smart contracts enable the creation of DAOs, new types of decentralised organisations governed and controlled by blockchain networks, which will arguably coexist and even replace the current legal entities.
 
 Smart Contract: codifies business logic.
 
